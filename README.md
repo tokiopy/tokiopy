@@ -40,7 +40,7 @@ $ whoami
 
 [![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,astro,tailwind,firebase,docker&theme=dark&perline=8)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=git,github,cloudflare,vite,express,py,solana,figma,linux&theme=dark&perline=8)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=git,github,cloudflare,vite,express,py,figma,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 `n8n` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Socket.IO` &nbsp;·&nbsp; `Lightning Network` &nbsp;·&nbsp; `Blink API`
 
