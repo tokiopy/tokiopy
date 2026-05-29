@@ -54,11 +54,11 @@ $ whoami
 
 | | Project | What it is |
 |:---:|:---|:---|
-| ⚡ | [**Satoshi's Playroom**](https://github.com/tokiopy/satoshis-playroom-showcase) | Real-money multiplayer gaming on Lightning — Domino, Poker, Chess |
-| ₿ | [**BitcoinLab Bolivia**](https://github.com/tokiopy/bitcoinlab-bolivia-showcase) | 7-tool Bitcoin education platform — courses, calculator, AI agent, business map |
+| ⚡ | [**Satoshi's Playroom**](https://github.com/tokiopy/satoshis-playroom-showcase) | Real-money multiplayer gaming on Lightning. Domino, Poker, Chess |
+| ₿ | [**BitcoinLab Bolivia**](https://github.com/tokiopy/bitcoinlab-bolivia-showcase) | Bitcoin education platform with 7 tools. Courses, calculator, AI agent, business map |
 | 🌿 | [**Escuelita Bitcoin**](https://github.com/tokiopy/escuelita-bitcoin-showcase) | Institutional site for a Bitcoin nonprofit serving Latin America |
-| 🌴 | [**Kabra Coin**](https://github.com/tokiopy/kabra-coin-showcase) | First memecoin from Punta Cana — live price, chart, AI chat, built on Solana |
-| 🏢 | [**TokioHub**](https://github.com/tokiopy/tokiohub-showcase) | Selective AI software & automation agency — 3 clients/month |
+| 🌴 | [**Kabra Coin**](https://github.com/tokiopy/kabra-coin-showcase) | First memecoin from Punta Cana. Live price, chart, AI chat on Solana |
+| 🏢 | [**TokioHub**](https://github.com/tokiopy/tokiohub-showcase) | Selective AI software and automation agency. 3 clients/month |
 
 </div>
 
