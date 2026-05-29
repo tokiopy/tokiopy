@@ -1,29 +1,36 @@
 <div align="center">
 
-# Emmanuel Fermin · Tokio
+![header](https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=220&section=header&text=Tokio&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%C2%B7%20Bitcoin%20Builder%20%C2%B7%20Automation%20Engineer&descAlignY=60&descSize=18&descColor=fff)
 
-### Full-stack developer and agency owner from Santo Domingo, DR.
-### I build web apps, AI agents, and automation workflows — from scratch, in production.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=F7931A&center=true&vCenter=true&width=700&lines=I+build+things+that+handle+real+money.;Lightning+payments.+Real-time+multiplayer.+AI+agents.;Full-stack+from+Santo+Domingo%2C+DR.;No+templates.+No+shortcuts.+No+excuses.)](https://git.io/typing-svg)
+
+<br/>
 
 [![Website](https://img.shields.io/badge/tokiohub.com-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](https://tokiohub.com/)
 [![X](https://img.shields.io/badge/@tokiobtc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/tokiobtc)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/18098524542)
-[![Email](https://img.shields.io/badge/info@tokiohub.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tokiohub.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@tokiohub.com)
 
 </div>
 
 ---
 
-## What I do
+```bash
+$ whoami
 
-I work as an independent developer and run **[TokioHub](https://tokiohub.com/)** — a selective software and automation agency. Every project is built from scratch, no templates, no shortcuts.
+  Emmanuel Fermin (Tokio)
+  Full-stack developer & founder of @TokioHub
+  Santo Domingo, Dominican Republic 🇩🇴
 
-- **Web applications** — full-stack products that handle real users and real money
-- **AI agents & automation** — n8n workflows, Claude API integrations, autonomous pipelines
-- **SEO / AEO / GEO** — search optimization for the AI era, not just Google
-- **Bitcoin-native** — Lightning payments, on-chain integrations, Bitcoin-first products
+  Specialties:
+  ├── Real-time web apps & multiplayer systems
+  ├── Bitcoin & Lightning Network integrations
+  ├── AI agents & workflow automation (n8n)
+  ├── SEO / AEO / GEO
+  └── LATAM Bitcoin ecosystem
 
-📍 Santo Domingo, Dominican Republic · Available for freelance and agency engagements
+  Status: available · 3 clients/month · no templates
+```
 
 ---
 
@@ -31,47 +38,42 @@ I work as an independent developer and run **[TokioHub](https://tokiohub.com/)**
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Claude API](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,astro,tailwind,firebase,docker&theme=dark&perline=8)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=git,github,cloudflare,vite,express,solana,figma,linux&theme=dark&perline=8)](https://skillicons.dev)
+
+`n8n` &nbsp;·&nbsp; `Claude API` &nbsp;·&nbsp; `Socket.IO` &nbsp;·&nbsp; `Lightning Network` &nbsp;·&nbsp; `Blink API`
 
 </div>
 
 ---
 
-## Projects
+## What I ship
 
-| Project | What it is |
-|---|---|
-| [**Escuelita Bitcoin**](https://github.com/tokiopy/escuelita-bitcoin-showcase) | Institutional site for a Bitcoin education nonprofit serving Latin America. Astro · Tailwind · Preact · Cloudflare Pages |
-| [**BitcoinLab Bolivia**](https://github.com/tokiopy/bitcoinlab-bolivia-showcase) | Bitcoin education platform with courses, calculator, business map, AI agent, blog, and certification |
-| [**Satoshi's Playroom**](https://github.com/tokiopy/satoshis-playroom-showcase) | Bitcoin gaming platform — Domino, Poker, Chess with real-money Lightning multiplayer |
-| [**Kabra Coin**](https://github.com/tokiopy/kabra-coin-showcase) | Community memecoin site — live price ticker, trading chart, YouTube gallery, AI chat. Built on Solana |
-| [**TokioHub**](https://github.com/tokiopy/tokiohub-showcase) | Agency site — selective AI software and automation agency |
+<div align="center">
 
----
+| | Project | What it is |
+|:---:|:---|:---|
+| ⚡ | [**Satoshi's Playroom**](https://github.com/tokiopy/satoshis-playroom-showcase) | Real-money multiplayer gaming on Lightning — Domino, Poker, Chess |
+| ₿ | [**BitcoinLab Bolivia**](https://github.com/tokiopy/bitcoinlab-bolivia-showcase) | 7-tool Bitcoin education platform — courses, calculator, AI agent, business map |
+| 🌿 | [**Escuelita Bitcoin**](https://github.com/tokiopy/escuelita-bitcoin-showcase) | Institutional site for a Bitcoin nonprofit serving Latin America |
+| 🌴 | [**Kabra Coin**](https://github.com/tokiopy/kabra-coin-showcase) | First memecoin from Punta Cana — live price, chart, AI chat, built on Solana |
+| 🏢 | [**TokioHub**](https://github.com/tokiopy/tokiohub-showcase) | Selective AI software & automation agency — 3 clients/month |
 
-## Connect
-
-- 🌐 **Agency:** [tokiohub.com](https://tokiohub.com/)
-- 💬 **GitHub:** [@tokiopy](https://github.com/tokiopy)
-- 🐦 **X:** [@tokiobtc](https://x.com/tokiobtc)
-- 📧 **Email:** info@tokiohub.com
-- 📱 **WhatsApp:** [+1-809-852-4542](https://wa.me/18098524542)
+</div>
 
 ---
 
 <div align="center">
 
-**From Tokio With ⚡**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tokiopy&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=F7931A&icon_color=F7931A&title_color=F7931A&text_color=ffffff&hide_border=false&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=F7931A&height=130&section=footer&text=From%20Tokio%20With%20%E2%9A%A1&fontSize=26&fontColor=fff&animation=fadeIn&fontAlignY=65)
 
 </div>
